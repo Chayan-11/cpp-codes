@@ -1,4 +1,4 @@
-### <p align="center"> ❤ cpp-practice-code </p>
+### <p align="center"> ❤ cpp-practice-codes </p>
 
 ------------------------------------------------
 
