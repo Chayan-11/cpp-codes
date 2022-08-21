@@ -1,4 +1,4 @@
-// Program to find the area of a circle using cmath header file
+// Program to find the area of circle using cmath header file 
 
 #include<iostream>
 #include<cmath>
